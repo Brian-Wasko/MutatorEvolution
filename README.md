@@ -11,6 +11,8 @@ This repository holds the following files used in the manuscript by Tracy et al.
 8) StrainInput.csv (a Sample input file used for EvolutionCompare4.py and EvolutionCompare4Indel.py) 
 9) annotatefs2.py (a modified version of Annotate 0.1 (Pashkova et al. 2013) that goes through bed files of indels and annotates the mutations, including the translated frameshift product.)
 10) HypergeometicCosinSimTestPub.py (a program written in python 3 that utilizes the output of snv_spectrum https://github.com/aroth85/snv-spectrum/ as a starting point to test whether two spectra are statistically different using both the hypergeometric test and cosine similarity.)
+11) Dataset 1 (Excel workbook that includes flow cytometry histograms reported in the paper, mutation rates, and simulation of the evolution of diploid mutator yeasts.  See Table of Contents for full details.).
+12) Dataset 2 (Excel workbook that includes results from whole genome sequencing and hypergeometric and cosine similarity tests. See Table of Contents for full details.) 
 
 
 
