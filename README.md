@@ -13,6 +13,9 @@ This repository holds the following files used in the manuscript by Tracy et al.
 10) HypergeometicCosinSimTestPub.py (a program written in python 3 that utilizes the output of snv_spectrum https://github.com/aroth85/snv-spectrum/ as a starting point to test whether two spectra are statistically different using both the hypergeometric test and cosine similarity.)
 11) Dataset 1 (Excel workbook that includes flow cytometry histograms reported in the paper, mutation rates, and simulation of the evolution of diploid mutator yeasts.  See Table of Contents for full details.).
 12) Dataset 2 (Excel workbook that includes results from whole genome sequencing and hypergeometric and cosine similarity tests. See Table of Contents for full details.) 
+13) AH164trunk_dNdscv_input.txt (Input file used for dNdScv analysis for Fig.4E) 
+14) AH164branches_dNdscv_input.txt (Input file used for dNdScv analysis for Fig.4E)
+15) AH164all_dNdscv_input.txt (Input file used for dNdScv analysis for Fig.4E)
 
 
 
